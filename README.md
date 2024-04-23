@@ -7,3 +7,5 @@
 6. What is Event Propagation? [Answer](https://youtu.be/VtxcpxqkD-s)
 7. What´s Event Bubbling? [Answer](https://youtu.be/HATzHzqNRAg)
 8. What´s Event Capturing? [Answer](https://youtu.be/eE_GscMnAlg)
+9. What´is the difference between event.preventDefault() and event.stopPropagation() method? [Answer](https://youtu.be/G_NbhZGA4l8)
+10. How to know if the event.preventDefault() method was used in a element? [Answer](https://youtu.be/E0vbO3XFRQw)
