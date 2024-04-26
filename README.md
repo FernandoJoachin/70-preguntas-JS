@@ -13,3 +13,5 @@
 12. What is event.target? [Answer](https://youtu.be/mAyevQQzjVA)
 13. What is event.currentTarget? [Answer](https://youtu.be/xa9yCnI_ywQ)
 14. What´s the difference between == and ===? [Answer](https://youtu.be/BjX9ZZtg1I0)
+15. Why does return false when comparing two similar objects in javascript? [Answer](https://youtu.be/lwF_ze-9khw)
+16. What does the !! operator do? [Answer](https://youtu.be/l2XC6f3DNzw) 
