@@ -19,3 +19,6 @@
 18. What is Hoisting? [Answer](https://youtu.be/ZXnsQYqu1d0)
 19. What is Scope? [Answer](https://youtu.be/yw44kCmJWXM)
 20. What are Closures? [Answer](https://youtu.be/AKzno3oYHj0)
+21. What are the falsy values in Javascript? [Answer](https://youtu.be/Y_ObJxDPQWo)
+22. How to check if values is falsy? [Answer](https://youtu.be/eKWlE_hlLI8)
+
