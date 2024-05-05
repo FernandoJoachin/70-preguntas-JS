@@ -22,7 +22,7 @@
 21. What are the falsy values in Javascript? [Answer](https://youtu.be/Y_ObJxDPQWo)
 22. How to check if values is falsy? [Answer](https://youtu.be/eKWlE_hlLI8)
 23. What does "use strict" do? [Answer](https://youtu.be/6gCJGBydmj4)
-24. What´s the value of 'this' in Javascript?
-25. What is the prototype of an object?
+24. What´s the value of 'this' in Javascript? [Answer](https://youtu.be/-DSuFb-LK4o)
+25. What is the prototype of an object? [Answer](https://youtu.be/48mk1I1Vyn0)
 26. What is an IFFE, what is the use of it? [Answer](https://youtu.be/wvf2LxfmkeE)
 
