@@ -25,4 +25,6 @@
 24. What´s the value of 'this' in Javascript? [Answer](https://youtu.be/-DSuFb-LK4o)
 25. What is the prototype of an object? [Answer](https://youtu.be/48mk1I1Vyn0)
 26. What is an IFFE, what is the use of it? [Answer](https://youtu.be/wvf2LxfmkeE)
+27. What is the use Function.prototype.apply method? [Answer](https://youtu.be/kHyrfrrKI_o)
+28. What is the use Function.prototype.call method? [Answer](https://youtu.be/mWiYFhyAAr4)
 
