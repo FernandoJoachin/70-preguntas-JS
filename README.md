@@ -27,4 +27,5 @@
 26. What is an IFFE, what is the use of it? [Answer](https://youtu.be/wvf2LxfmkeE)
 27. What is the use Function.prototype.apply method? [Answer](https://youtu.be/kHyrfrrKI_o)
 28. What is the use Function.prototype.call method? [Answer](https://youtu.be/mWiYFhyAAr4)
-
+29. What´s the difference between Function.prototype.apply and Function.prototype.call? [Answer](https://youtu.be/uBiNxZIC668)
+30. What is the usage of Function.prototype.call? [Answer](https://youtu.be/l0CvucXTGKo)
