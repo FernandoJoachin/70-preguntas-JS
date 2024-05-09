@@ -29,3 +29,6 @@
 28. What is the use Function.prototype.call method? [Answer](https://youtu.be/mWiYFhyAAr4)
 29. What´s the difference between Function.prototype.apply and Function.prototype.call? [Answer](https://youtu.be/uBiNxZIC668)
 30. What is the usage of Function.prototype.call? [Answer](https://youtu.be/l0CvucXTGKo)
+31. What is Functional Programming and what are the features of JavaScript that makes it a candidate as a functional language? [Answer]()
+32. What are higher order functions? [Answer]()
+33. Why are functions called First-Class Functions? [Answer]()
