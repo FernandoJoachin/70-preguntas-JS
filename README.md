@@ -32,3 +32,5 @@
 31. What is Functional Programming and what are the features of JavaScript that makes it a candidate as a functional language? [Answer](https://youtu.be/hXOwooLgn8Q)
 32. What are higher order functions? [Answer](https://youtu.be/0jzqqITaAdM)
 33. Why are functions called First-Class Functions? [Answer](https://youtu.be/2o7aAe75Dw8)
+34. Implement the Array.prototype.map method by hand [Answer](https://youtu.be/xg0V0gkzByM)
+35. Implement the Array.prototype.map method by hand [Answer](https://youtu.be/1PT_wVPP2ss)
