@@ -34,3 +34,5 @@
 33. Why are functions called First-Class Functions? [Answer](https://youtu.be/2o7aAe75Dw8)
 34. Implement the Array.prototype.map method by hand [Answer](https://youtu.be/xg0V0gkzByM)
 35. Implement the Array.prototype.map method by hand [Answer](https://youtu.be/1PT_wVPP2ss)
+36. Implement the Array.prototype.reduce method by hand [Answer](https://youtu.be/KFukxYONugs)
+37. What is the arguments object? [Answer](https://youtu.be/UnOoZlqnuqQ)
