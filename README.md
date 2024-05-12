@@ -36,3 +36,6 @@
 35. Implement the Array.prototype.map method by hand [Answer](https://youtu.be/1PT_wVPP2ss)
 36. Implement the Array.prototype.reduce method by hand [Answer](https://youtu.be/KFukxYONugs)
 37. What is the arguments object? [Answer](https://youtu.be/UnOoZlqnuqQ)
+38. How to create an object without a prototype? [Answer](https://youtu.be/UwsoeqPV6HI)
+39. Why does b in this code become a global variable when you call this function?
+40. What is ECMAScript? [Answer](https://youtu.be/NiiLOT_rsTI)
