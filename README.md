@@ -39,3 +39,5 @@
 38. How to create an object without a prototype? [Answer](https://youtu.be/UwsoeqPV6HI)
 39. Why does b in this code become a global variable when you call this function?
 40. What is ECMAScript? [Answer](https://youtu.be/NiiLOT_rsTI)
+41. What are the new features in ES6 or ECMAScript 2015?
+42. What´s the difference between var, let and const keywords? [Answer](https://youtu.be/xYoR86l1ftI)
