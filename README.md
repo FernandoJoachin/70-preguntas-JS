@@ -47,3 +47,5 @@
 46. What is Object Destructuring? [Answer](https://youtu.be/L_jj0aGyxjM)
 47. What are ES6 Modules? [Answer](https://youtu.be/SkB7qk2rs4Y)
 48. What is the Set object and how does it work? [Answer](https://youtu.be/bMtU3j5dEDc)
+49. What is a Callback function? [Answer](https://youtu.be/wlOP82O-izA)
+50. What are Promises? [Answer](https://youtu.be/TpoN3Ht6ZkE)
