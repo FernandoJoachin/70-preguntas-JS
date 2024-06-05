@@ -54,4 +54,7 @@
 53. what are default parameters? [Answer](https://youtu.be/9LuIGNiw8aw) 
 54. What are wrapper objects? [Answer](https://youtu.be/6MJ3C1xWenw) 
 55. What is the difference betweem Implicit and Explicit Coercion? [Answer](https://youtu.be/N_HZvZuENWg)
-56. What is NaN? and How to check if a value is NaN? [Answer]()
+56. What is NaN? and How to check if a value is NaN? [Answer](https://youtu.be/pJeFKStLlXQ)
+57. How to check if a value is an Array? [Answer](https://youtu.be/UnoQwEuQSsQ)
+58. How to check if a number is even without using the % or modulo operator? [Answer]()
+59. How to check if a certain property exists in an object? [Answer](https://youtu.be/otYcZtqvaBE)
