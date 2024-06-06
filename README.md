@@ -56,5 +56,6 @@
 55. What is the difference betweem Implicit and Explicit Coercion? [Answer](https://youtu.be/N_HZvZuENWg)
 56. What is NaN? and How to check if a value is NaN? [Answer](https://youtu.be/pJeFKStLlXQ)
 57. How to check if a value is an Array? [Answer](https://youtu.be/UnoQwEuQSsQ)
-58. How to check if a number is even without using the % or modulo operator? [Answer]()
+58. How to check if a number is even without using the % or modulo operator? [Answer](https://youtu.be/bIH9VEoqM-g)
 59. How to check if a certain property exists in an object? [Answer](https://youtu.be/otYcZtqvaBE)
+60. What is AJAX? [Answer](https://youtu.be/I7FdX-Ln_7E)
