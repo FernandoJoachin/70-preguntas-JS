@@ -59,3 +59,5 @@
 58. How to check if a number is even without using the % or modulo operator? [Answer](https://youtu.be/bIH9VEoqM-g)
 59. How to check if a certain property exists in an object? [Answer](https://youtu.be/otYcZtqvaBE)
 60. What is AJAX? [Answer](https://youtu.be/I7FdX-Ln_7E)
+61. What are the ways of making objects in JavaScript? [Answer](https://youtu.be/a_HGDBhwAqs)
+62. What´s the difference between Object.seal and Object.freeze methods? [Answer](https://youtu.be/xRggSvkpSPA)
