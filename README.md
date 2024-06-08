@@ -61,3 +61,6 @@
 60. What is AJAX? [Answer](https://youtu.be/I7FdX-Ln_7E)
 61. What are the ways of making objects in JavaScript? [Answer](https://youtu.be/a_HGDBhwAqs)
 62. What´s the difference between Object.seal and Object.freeze methods? [Answer](https://youtu.be/xRggSvkpSPA)
+63. what´s the difference between the in operator and and the hasOwnProperty method in objects? [Answer](https://youtu.be/2vEcGjxlHMo)
+64. What are the ways to deal with Asynchronous Code in JavaScript? [Answer]()
+65. What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/BBjOIz_qZ4Y)
