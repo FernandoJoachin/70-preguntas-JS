@@ -64,3 +64,4 @@
 63. what´s the difference between the in operator and and the hasOwnProperty method in objects? [Answer](https://youtu.be/2vEcGjxlHMo)
 64. What are the ways to deal with Asynchronous Code in JavaScript? [Answer]()
 65. What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/BBjOIz_qZ4Y)
+66. How many ways can function be invoked? [Answer]()
