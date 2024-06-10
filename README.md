@@ -37,9 +37,9 @@
 36. Implement the Array.prototype.reduce method by hand [Answer](https://youtu.be/KFukxYONugs)
 37. What is the arguments object? [Answer](https://youtu.be/UnOoZlqnuqQ)
 38. How to create an object without a prototype? [Answer](https://youtu.be/UwsoeqPV6HI)
-39. Why does b in this code become a global variable when you call this function?
+39. Why does b in this code become a global variable when you call this function? [Answer]()
 40. What is ECMAScript? [Answer](https://youtu.be/NiiLOT_rsTI)
-41. What are the new features in ES6 or ECMAScript 2015?
+41. What are the new features in ES6 or ECMAScript 2015? [Answer](https://youtu.be/gNX7gQc5Y4U)
 42. What´s the difference between var, let and const keywords? [Answer](https://youtu.be/xYoR86l1ftI)
 43. What are Arrow Functions? [Answer](https://youtu.be/Do9q7qGVu4U)
 44. What are Classes? [Answer](https://youtu.be/9g4OiqYUa5s)
@@ -62,6 +62,6 @@
 61. What are the ways of making objects in JavaScript? [Answer](https://youtu.be/a_HGDBhwAqs)
 62. What´s the difference between Object.seal and Object.freeze methods? [Answer](https://youtu.be/xRggSvkpSPA)
 63. what´s the difference between the in operator and and the hasOwnProperty method in objects? [Answer](https://youtu.be/2vEcGjxlHMo)
-64. What are the ways to deal with Asynchronous Code in JavaScript? [Answer]()
+64. What are the ways to deal with Asynchronous Code in JavaScript? [Answer](https://youtu.be/vyu-0dOdFvU)
 65. What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/BBjOIz_qZ4Y)
-66. How many ways can function be invoked? [Answer]()
+66. How many ways can function be invoked? [Answer](https://youtu.be/sfY7Hf8e8UE)
