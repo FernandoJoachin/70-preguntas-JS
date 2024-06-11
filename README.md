@@ -65,3 +65,7 @@
 64. What are the ways to deal with Asynchronous Code in JavaScript? [Answer](https://youtu.be/vyu-0dOdFvU)
 65. What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/BBjOIz_qZ4Y)
 66. How many ways can function be invoked? [Answer](https://youtu.be/sfY7Hf8e8UE)
+67. What is memoization and what´s the use it? [Answer]()
+68. Implement a memoization helper function [Answer]()
+69. Why does typeof null return object? How to check if a value is null? [Answer]()
+70. What does the new keyword do? [Answer]()
