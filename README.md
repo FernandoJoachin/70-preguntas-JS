@@ -66,6 +66,6 @@
 65. What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/BBjOIz_qZ4Y)
 66. How many ways can function be invoked? [Answer](https://youtu.be/sfY7Hf8e8UE)
 67. What is memoization and what´s the use it? [Answer](https://youtu.be/OMRnXLAJOOs)
-68. Implement a memoization helper function [Answer]()
+68. Implement a memoization helper function [Answer](https://youtu.be/XdUGO-RMank)
 69. Why does typeof null return object? How to check if a value is null? [Answer](https://youtu.be/YJ6Szo6k1aI)
 70. What does the new keyword do? [Answer](https://youtu.be/SLMAIC0Kc6E)
